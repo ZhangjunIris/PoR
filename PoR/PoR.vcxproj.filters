@@ -27,13 +27,16 @@
     <ClInclude Include="E:\PoR Project\DPOR\evaluate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="E:\PoR Project\DPOR\gDef.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="E:\PoR Project\DPOR\dataDef.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="E:\PoR Project\DPOR\DPoR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\PoR Project\testUnit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gDef.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -47,16 +50,22 @@
     <ClCompile Include="E:\PoR Project\DPOR\DPoR.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\PoR Project\DPOR\main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="E:\PoR Project\DPOR\num.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="E:\PoR Project\DPOR\skip.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\PoR Project\DPOR\dataDef.cpp">
+    <ClCompile Include="E:\PoR Project\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\PoR Project\testUnit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dataDef.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="treeTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
